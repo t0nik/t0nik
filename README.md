@@ -3,6 +3,6 @@
 ## Overview
 Interests: Competetive games, Robotics, some branches of music theory
 
-Status: Currently refining c++ knowledge
+Status: Studying
 
-Future: Learn to make webistes
+Future: Create planned music and programming projects
