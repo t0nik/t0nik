@@ -7,4 +7,4 @@
 
 **Future**: Fresh music and programming projects
 
-![profile views](https://komarev.com/ghpvc/?username=t0nik&label=Profile+views+👀&color=C398BC)
+![profile clicks](https://komarev.com/ghpvc/?username=t0nik&label=Profile+clicks+👀&color=C398BC)
