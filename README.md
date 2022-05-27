@@ -3,8 +3,8 @@
 ### Overview
 **Interests**: Competetive games,  Music theory, Cybersecurity, Robotics
 
-**Status**: Learning Networking, doing mundane tasks, the usual
+**Status**: Finishing college projects, learning taiko
 
-**Future**: Fresh music and programming projects
+**Future**: MP4, WEBM files database + website (find relatable file by tags when given opportunity); Discord bot
 
 ![profile clicks](https://komarev.com/ghpvc/?username=t0nik&label=Profile+clicks+👀&color=C398BC)
