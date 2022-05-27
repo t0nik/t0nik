@@ -1,4 +1,4 @@
-## Hey, t0nik here.
+## Hi!
 
 ### Overview
 **Interests**: Competetive games,  Music theory, Cybersecurity, Robotics
