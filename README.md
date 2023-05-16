@@ -1,7 +1,7 @@
 ## Hi!
 
 ### Overview
-**Status**: Grinding taiko, building strong front end dev foundations
+**Status**: Creating front end dev projects.
 
 **Future**: Personal website overhaul, Collaborative database+website for making the finding process of a certain vid/img easier;
 
